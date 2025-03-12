@@ -1,0 +1,14 @@
+C:\Users\HP EliteBook\RiderProjects\OliviaPrivate.ToDoApp.Console\OliviaPrivate.ToDoApp.Console\bin\Debug\net9.0\OliviaPrivate.ToDoApp.Console.exe
+C:\Users\HP EliteBook\RiderProjects\OliviaPrivate.ToDoApp.Console\OliviaPrivate.ToDoApp.Console\bin\Debug\net9.0\OliviaPrivate.ToDoApp.Console.deps.json
+C:\Users\HP EliteBook\RiderProjects\OliviaPrivate.ToDoApp.Console\OliviaPrivate.ToDoApp.Console\bin\Debug\net9.0\OliviaPrivate.ToDoApp.Console.runtimeconfig.json
+C:\Users\HP EliteBook\RiderProjects\OliviaPrivate.ToDoApp.Console\OliviaPrivate.ToDoApp.Console\bin\Debug\net9.0\OliviaPrivate.ToDoApp.Console.dll
+C:\Users\HP EliteBook\RiderProjects\OliviaPrivate.ToDoApp.Console\OliviaPrivate.ToDoApp.Console\bin\Debug\net9.0\OliviaPrivate.ToDoApp.Console.pdb
+C:\Users\HP EliteBook\RiderProjects\OliviaPrivate.ToDoApp.Console\OliviaPrivate.ToDoApp.Console\obj\Debug\net9.0\OliviaPrivate.ToDoApp.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP EliteBook\RiderProjects\OliviaPrivate.ToDoApp.Console\OliviaPrivate.ToDoApp.Console\obj\Debug\net9.0\OliviaPrivate.ToDoApp.Console.AssemblyInfoInputs.cache
+C:\Users\HP EliteBook\RiderProjects\OliviaPrivate.ToDoApp.Console\OliviaPrivate.ToDoApp.Console\obj\Debug\net9.0\OliviaPrivate.ToDoApp.Console.AssemblyInfo.cs
+C:\Users\HP EliteBook\RiderProjects\OliviaPrivate.ToDoApp.Console\OliviaPrivate.ToDoApp.Console\obj\Debug\net9.0\OliviaPrivate.ToDoApp.Console.csproj.CoreCompileInputs.cache
+C:\Users\HP EliteBook\RiderProjects\OliviaPrivate.ToDoApp.Console\OliviaPrivate.ToDoApp.Console\obj\Debug\net9.0\OliviaPrivate.ToDoApp.Console.dll
+C:\Users\HP EliteBook\RiderProjects\OliviaPrivate.ToDoApp.Console\OliviaPrivate.ToDoApp.Console\obj\Debug\net9.0\refint\OliviaPrivate.ToDoApp.Console.dll
+C:\Users\HP EliteBook\RiderProjects\OliviaPrivate.ToDoApp.Console\OliviaPrivate.ToDoApp.Console\obj\Debug\net9.0\OliviaPrivate.ToDoApp.Console.pdb
+C:\Users\HP EliteBook\RiderProjects\OliviaPrivate.ToDoApp.Console\OliviaPrivate.ToDoApp.Console\obj\Debug\net9.0\OliviaPrivate.ToDoApp.Console.genruntimeconfig.cache
+C:\Users\HP EliteBook\RiderProjects\OliviaPrivate.ToDoApp.Console\OliviaPrivate.ToDoApp.Console\obj\Debug\net9.0\ref\OliviaPrivate.ToDoApp.Console.dll

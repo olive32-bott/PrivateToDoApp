@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "OliviaPrivate.ToDoApp.Console/1.0.0": {
+        "runtime": {
+          "OliviaPrivate.ToDoApp.Console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OliviaPrivate.ToDoApp.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
