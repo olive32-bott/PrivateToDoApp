@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OliviaPrivate.ToDoApp.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e4de091780928ec7c2f719836b2399cfc6a684f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb7ca7b6e738d7f728cbd87922d0a31ab1b0f5c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("OliviaPrivate.ToDoApp.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OliviaPrivate.ToDoApp.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
